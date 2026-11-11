@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057310683863",
+    "project_id": "project220-2-afb52",
+    "storage_bucket": "project220-2-afb52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057310683863:android:531c0ba0d10621bf047692",
+        "android_client_info": {
+          "package_name": "com.zonnon.project220_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0gi16NGf-0gW3s44n2EeoDVl7i1kJvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
