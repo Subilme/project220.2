@@ -1,4 +1,4 @@
-package com.zonnon.project220_2
+package com.zonnon.project220_2.components
 
 import android.widget.Toast
 import androidx.compose.foundation.background
@@ -20,6 +20,7 @@ import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import com.zonnon.project220_2.R
 
 @Preview
 @Composable
